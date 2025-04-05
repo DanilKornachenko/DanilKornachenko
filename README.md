@@ -23,7 +23,8 @@
 - [decimal](https://github.com/DanilKornachenko/decimal): Создание библиотеки для decimal чисел на языке Си.
 
 ## 📈 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilKornachenko&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilKornachenko&show_icons=true&theme=tokyonight) ![GitHub Exp Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanilKornachenko&theme=tokyonight)  
+![LeetCode](https://leetcard.jacoblin.cool/CPP_Danil?theme=catppuccinMocha&font=Mina&ext=heatmap)  
 
 ## 📫 Как со мной связаться
 - [Telegram](https://t.me/DanilKorn)
