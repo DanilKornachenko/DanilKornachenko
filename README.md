@@ -16,11 +16,13 @@
   - CMake
 
 ## 🌟 Проекты  
-- [SimpleThread](https://github.com/DanilKornachenko/SimpleThread): Небольшой пример с многопоточностью на С++.
+- [VeilOfTrials](https://github.com/DanilKornachenko/VeilOfTriads): Игра на С++ на движке Axmol.
+- [Летние курсы Элтекс](https://github.com/DanilKornachenko/eltex_summer_course): Летние курсы Eltex.
 - [MatrixPlus](https://github.com/DanilKornachenko/MatrixPlus): Создание библиотеки для вычисления матриц на языке С++.
 - [BrickGame_V1.0](https://github.com/DanilKornachenko/BrickGame_V1.0): Создание игры Тетрис на языке Си.
 - [Matrix_C](https://github.com/DanilKornachenko/Matrix_C): Создание библиотеки для вычисления матриц на языке Си.
 - [decimal](https://github.com/DanilKornachenko/decimal): Создание библиотеки для decimal чисел на языке Си.
+- [SimpleThread](https://github.com/DanilKornachenko/SimpleThread): Небольшой пример с многопоточностью на С++.
 
 ## 📈 Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilKornachenko&show_icons=true&theme=tokyonight)      
